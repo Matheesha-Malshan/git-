@@ -1,6 +1,6 @@
 class Main{
 
-	String Api="wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY";
+	
 	
 	public static void main(String [] args){
 		
