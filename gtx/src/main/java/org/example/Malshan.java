@@ -6,6 +6,6 @@ public class Malshan {
 
     public void uid(){
 
-        String m="wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY";
+        String m="malshan123";
     }
 }
