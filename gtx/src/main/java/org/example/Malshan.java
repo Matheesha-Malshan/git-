@@ -8,5 +8,9 @@ public class Malshan {
 
         String m="***REMOVED***";
     }
+
+    public String addKeyIntoThere(){
+        System.out.println("matheesha malshan");
+    }
 }
 
