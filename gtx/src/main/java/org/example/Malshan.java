@@ -6,6 +6,6 @@ public class Malshan {
 
     public void uid(){
 
-        String m="malshan123";
+        String m="";
     }
 }
