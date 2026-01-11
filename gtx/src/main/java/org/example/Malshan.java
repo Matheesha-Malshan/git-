@@ -9,8 +9,5 @@ public class Malshan {
         String Api_key="wJalrXUtnFEMI/K7MDENG/bPxRfiCYFAKEKEY";
     }
 
-    public String addKeyIntoThere(){
-        System.out.println("matheesha malshan");
-    }
 }
 
